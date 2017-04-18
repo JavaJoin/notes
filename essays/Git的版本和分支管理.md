@@ -32,7 +32,7 @@ git checkout master
 
 当然你也可以使用
 
-````
+```
 git checkout dev 
 ```
 
